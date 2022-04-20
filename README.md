@@ -17,6 +17,5 @@ Concepts used in the code:
 
 # Support and Motivation
 There are many ways to encourage a coder - starring⭐️ the GitHub repos is just one.
-Inspired from <a href="https://www.youtube.com/watch?v=-LsuiVGO-88"> Mariya Sha</a>.
 
 # OOPS with Python and OpenCV (Creation of random Eco-friendly City  landscapes with day/night sky)
